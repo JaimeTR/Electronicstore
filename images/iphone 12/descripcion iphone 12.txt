@@ -1,0 +1,41 @@
+La pantalla del iPhone 12 tiene esquinas redondeadas que siguen el elegante diseño curvo del teléfono, 
+y las esquinas se encuentran dentro de un rectángulo estándar. Si se mide en forma de rectángulo estándar, 
+la pantalla tiene 6.06 pulgadas en diagonal (el área real de visualización es menor).
+
+Pantalla Super Retina XDR
+Pantalla OLED de 6.1 pulgadas (diagonal) sin marco
+Resolución de 2532 x 1170 pixeles a 460 ppi
+
+Pantalla HDR
+True Tone
+Amplia gama de colores (P3)
+Toque con respuesta háptica
+Relación de contraste 2,000,000:1 (normal)
+Brillo máximo de 625 nits (normal); brillo máximo de 1,200 nits (HDR)
+Revestimiento oleofóbico resistente a huellas dactilares
+Compatibilidad para mostrar varios idiomas y caracteres simultáneamente
+
+Cámara
+Sistema de dos cámaras de 12 MP: ultra gran angular y gran angular
+Ultra gran angular: apertura de ƒ/2.4 y ángulo de visión de 120°
+Gran angular: apertura de ƒ/1.6
+Zoom óptico de 2x para alejar
+Zoom digital de hasta 5x
+Modo Retrato con bokeh avanzado y Control de Profundidad
+Iluminación de Retrato con seis efectos (Luz Natural, Luz de Estudio Fotográfico, Luz al Contorno, Reflector, Reflector B y N, Clave Alta en B y N)
+Estabilización óptica de imagen (cámara gran angular)
+Lente de cinco elementos (cámara ultra gran angular); lente de siete elementos (cámara gran angular)
+Flash True Tone más brillante con sincronización lenta
+Fotos panorámicas (hasta 63 MP)
+Cubierta del lente de cristal de zafiro
+100% Focus Pixels (cámara gran angular)
+Modo Noche (cámaras ultra gran angular y gran angular)
+Deep Fusion (cámaras ultra gran angular y gran angular)
+HDR Inteligente 3 con detección de escena
+Amplia gama de colores en fotos y Live Photos
+Corrección de lente (cámara ultra gran angular)
+Corrección avanzada de ojos rojos
+Estabilización automática de imagen
+Modo Ráfaga
+Geoetiquetado de fotos
+Captura de imagen en formatos HEIF y JPEG
