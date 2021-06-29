@@ -1,4 +1,4 @@
-# Electronicstore
-Tecno Store  - tienda online
+# Tecno Store
+------tienda online------
 
 
